@@ -2,9 +2,9 @@
 
 Telegram账号招商实名认证指南推广指南：Telegram账号招商实名认证的核心，是使用真实、可核验的企业或个人身份，完成资料审核后再开展合规推广。它不能替代平台规则，也不能用于批量注册、买卖账号或规避风控。招商前应明确业务主体、服务内容、收费方式和售后责任，降低用户信任成本。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号招商实名认证
 

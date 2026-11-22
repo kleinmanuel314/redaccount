@@ -2,9 +2,9 @@
 
 TikTok账号批量采购社媒运营操作指南：TikTok账号批量采购社媒运营的重点，不是账号数量越多越好，而是确保来源合规、资料真实、权限安全，并建立统一的内容与风控流程。采购前应明确目标市场、账号类型和使用场景，优先选择可验证注册信息、无违规记录且支持售后交接的账号，避免因异常登录或批量操作导致封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号批量采购社媒运营
 

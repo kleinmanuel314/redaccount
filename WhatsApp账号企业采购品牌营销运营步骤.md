@@ -2,9 +2,9 @@
 
 WhatsApp账号企业采购品牌营销运营步骤：企业采购WhatsApp账号后，应先完成企业认证、号码分组和权限配置，再制定品牌营销运营步骤。建议从客户画像、内容规划、私聊转化到数据复盘逐步推进，避免批量群发造成封号，也能让每个账号服务明确、效果可追踪。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号企业采购
 

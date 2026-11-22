@@ -2,9 +2,9 @@
 
 TikTok账号求购海外社媒运营实战注意事项：进行TikTok账号求购时，不能只看粉丝数量和报价。应优先核验账号来源、内容垂直度、受众地区、违规记录及转让权限，并通过平台允许的方式完成交接，避免买到被限流、盗号或随时找回的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号求购
 

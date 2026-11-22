@@ -2,9 +2,9 @@
 
 WhatsApp账号经销商推广技巧教程：WhatsApp账号经销商推广技巧的核心，是围绕真实客户、合规账号和持续服务建立信任，而不是批量加人或发送骚扰消息。建议优先使用WhatsApp Business及官方API，通过本地化内容、客户授权和售后支持获取长期订单。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号经销商推广技巧
 

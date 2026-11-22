@@ -2,9 +2,9 @@
 
 LINE账号代理品牌推广新手指南：LINE账号代理品牌推广的关键，不是单纯增加账号数量，而是通过合规账号、精准受众和持续内容运营建立信任。新手可先明确目标市场，再选择具备稳定资源、售后支持和风控能力的代理服务商，配合优惠活动、社群互动与数据复盘，逐步提升品牌触达和转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号代理品牌推广
 

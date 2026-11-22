@@ -2,9 +2,9 @@
 
 WhatsApp账号批量供应迁移教程操作优化指南：涉及WhatsApp账号批量供应迁移时，重点不是购买或批量注册账号，而是将企业自有账号、联系人及业务记录安全迁移到合规设备和官方平台。建议先确认账号归属、管理员权限与用户同意，再制定备份、验证和回滚方案，避免封号、数据丢失及隐私泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号批量供应迁移
 

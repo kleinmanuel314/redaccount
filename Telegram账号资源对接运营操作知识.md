@@ -2,9 +2,9 @@
 
 Telegram账号资源对接运营操作知识：Telegram账号资源对接运营的重点，不是批量购买或转卖账号，而是合规连接频道、群组、广告主与服务团队，建立可追踪的推广流程。运营前应确认资源来源、受众匹配度和合作规则，避免封号、诈骗及隐私泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号资源对接运营
 

@@ -2,9 +2,9 @@
 
 TikTok账号批量采购企业营销操作方法：TikTok账号批量采购适合需要多市场运营、内容测试或品牌矩阵推广的企业，但不建议直接购买来历不明的账号。更稳妥的做法是选择合规服务商，核验账号来源、历史内容、受众地区及交付权限，并通过小批量测试降低封禁和资金损失风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号批量采购
 

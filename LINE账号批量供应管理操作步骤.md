@@ -2,9 +2,9 @@
 
 LINE账号批量供应管理操作步骤：LINE账号批量供应管理的核心，不是简单购买或堆放账号，而是对企业自有账号、授权人员、登录设备、使用权限和状态进行统一登记。建议先确认业务用途与用户授权，再建立台账、分配负责人，并通过官方工具完成消息、客户和权限管理，降低封禁、泄露及重复触达风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批量供应管理
 

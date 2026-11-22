@@ -2,9 +2,9 @@
 
 WhatsApp账号现货营销运营专业指南：WhatsApp账号现货营销运营的核心，不是批量购买或出售账号，而是在遵守平台规则和当地隐私法规的前提下，使用企业官方账号开展获客、客服与复购。最稳妥的做法是完成企业资料认证，获取用户明确授权，并通过WhatsApp Business或官方API进行管理，降低封号和投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号现货营销运营
 

@@ -2,9 +2,9 @@
 
 TikTok账号渠道商多账号管理操作常见问题：TikTok账号渠道商多账号管理出现登录失效、权限混乱或数据不同步时，应先核对账号归属、权限分级、设备环境与操作日志，避免多人共用主密码。建立统一台账和异常预警，通常比频繁更换网络更有效。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号渠道商多账号管理
 

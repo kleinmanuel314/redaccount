@@ -2,9 +2,9 @@
 
 LINE账号商城品牌营销操作教程：LINE账号商城品牌营销的核心，是把官方账号、商品目录与客服流程连接起来，通过好友添加、内容触达和在线成交，持续提升复购率。操作重点不是单纯发广告，而是建立“引流—互动—购买—回访”的完整链路。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号商城品牌营销
 

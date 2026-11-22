@@ -2,9 +2,9 @@
 
 QQ账号货源企业号认证运营方案的重点，不是批量购买或绕过审核，而是通过腾讯官方渠道配置企业账号、完成真实主体认证，并建立安全、可追溯的日常运营流程。企业应优先使用自有手机号和员工实名信息，避免账号冻结、投诉及合规风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号货源企业号认证运营方案
 

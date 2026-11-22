@@ -2,9 +2,9 @@
 
 TikTok账号账号服务关键词优化新手指南：TikTok账号服务关键词优化的核心，是把用户常搜的词合理放入账号名称、简介、视频标题、字幕和话题中，让平台更准确理解账号内容，并提升搜索曝光。新手应先明确目标受众，再围绕服务类型、地区和使用场景布局关键词，而不是重复堆砌词语。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号服务关键词优化
 

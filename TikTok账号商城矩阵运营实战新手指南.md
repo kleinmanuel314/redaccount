@@ -2,9 +2,9 @@
 
 TikTok账号商城矩阵运营实战新手指南：TikTok账号商城矩阵运营的核心，是用多个定位清晰的账号服务同一店铺，通过内容引流、直播转化和数据复盘形成闭环。新手不宜一开始铺设大量账号，应先选择一个主推品类，搭建“主账号+垂直内容号+直播号”的小型矩阵。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号商城矩阵运营
 

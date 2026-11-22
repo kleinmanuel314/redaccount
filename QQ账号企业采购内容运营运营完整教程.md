@@ -2,9 +2,9 @@
 
 QQ账号企业采购内容运营运营完整教程：QQ账号企业采购内容运营，核心不是单纯批量买号，而是围绕企业沟通、客户服务和品牌触达，建立合规的账号采购、分配、维护与内容发布流程。企业应优先选择腾讯官方产品及授权服务商，核验主体资质，明确账号用途，并通过统一运营制度降低封禁、盗号和数据泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号企业采购内容运营
 

@@ -2,9 +2,9 @@
 
 QQ账号货源社媒推广教程实战安全指南：想做QQ账号相关社媒推广，最重要的不是寻找所谓“低价货源”，而是使用本人注册或官方授权的账号，并通过合规内容、真实用户和可追溯渠道获客。QQ账号货源应优先选择腾讯官方注册、企业认证及正规代理服务，避免买卖实名账号、批量养号和绕过风控。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号货源
 

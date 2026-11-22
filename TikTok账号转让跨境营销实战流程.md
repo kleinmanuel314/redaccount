@@ -2,9 +2,9 @@
 
 TikTok账号转让跨境营销实战流程：TikTok账号转让跨境营销的关键，不是单纯购买一个账号，而是完成受众、内容资产与合规运营的交接。正式交易前应核查账号来源、粉丝地区、历史违规记录及平台规则，并通过书面协议明确交付范围，降低封号和纠纷风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号转让跨境营销
 

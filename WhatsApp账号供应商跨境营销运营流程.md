@@ -2,9 +2,9 @@
 
 WhatsApp账号供应商跨境营销运营流程的核心，是通过合规账号、精准触达和持续跟进完成客户转化。企业应优先使用WhatsApp Business或官方API，确认账号来源、授权范围及稳定性，再结合目标市场制定内容、客服和数据复盘方案，避免群发骚扰、账号封禁及隐私风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号供应商跨境营销运营流程
 

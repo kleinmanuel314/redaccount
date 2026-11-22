@@ -2,9 +2,9 @@
 
 LINE账号采购服务社媒矩阵管理操作流程：LINE账号采购服务的核心，不是简单批量购买账号，而是建立合规、可交接、可追踪的社媒矩阵。建议先明确业务场景，再完成账号筛选、权限配置、内容分工与数据复盘，降低封禁、泄露和运营失控风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号采购服务社媒矩阵管理
 

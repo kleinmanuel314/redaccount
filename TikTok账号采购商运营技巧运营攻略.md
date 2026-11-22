@@ -2,9 +2,9 @@
 
 TikTok账号采购商运营技巧运营攻略：想提升TikTok账号采购后的运营效果，关键不是单纯追求粉丝数量，而是核验账号质量、完成平稳交接，并依据原有受众重新建立内容定位。实用的TikTok账号采购商运营技巧包括数据审查、风险控制、内容过渡和持续复盘，适合跨境电商、品牌营销及海外内容团队参考。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购商运营技巧
 

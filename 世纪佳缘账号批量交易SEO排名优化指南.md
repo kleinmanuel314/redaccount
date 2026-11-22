@@ -2,9 +2,9 @@
 
 世纪佳缘账号批量交易SEO排名优化指南：世纪佳缘账号批量交易存在账号封禁、隐私泄露、诈骗及法律合规风险，不建议购买、出售或通过SEO推广此类服务。若目标是提升婚恋业务获客效果，应采用官方认证、内容营销和合规广告等方式，建立可持续的自然搜索流量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是世纪佳缘账号批量交易
 

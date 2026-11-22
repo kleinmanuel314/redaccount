@@ -2,9 +2,9 @@
 
 WhatsApp账号转让防封运营知识的核心，不是规避平台审核，而是降低账号异常风险。转让前应确认账号来源合法、信息真实，并完成安全交接；接手后避免群发、诱导加好友和短期高频操作，才能提升账号稳定性。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号转让防封运营知识
 

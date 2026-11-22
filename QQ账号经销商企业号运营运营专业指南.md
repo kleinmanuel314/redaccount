@@ -2,9 +2,9 @@
 
 QQ账号经销商企业号运营运营专业指南的核心，不是批量出售账号，而是通过正规渠道提供企业QQ注册、认证、权限管理与客户服务。运营者应取得用户授权，遵守腾讯平台规则及网络安全、个人信息保护要求，建立实名审核、售后支持和风险预警机制，才能获得稳定流量与长期信任。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号经销商企业号运营
 

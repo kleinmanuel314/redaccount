@@ -2,9 +2,9 @@
 
 Telegram账号合作企业营销优化指南：Telegram账号合作要以合规、安全和可衡量为前提，不能只追求账号数量。企业应先明确目标客户、内容方向与转化路径，再通过官方渠道、行业社群或可靠服务商开展合作，配合数据追踪和权限管理，才能稳定提升Telegram企业营销效果。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号合作
 

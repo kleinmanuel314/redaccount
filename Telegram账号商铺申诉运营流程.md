@@ -2,9 +2,9 @@
 
 Telegram账号商铺申诉运营流程的核心，是在账号受限、消息发送异常或商铺功能关闭时，按照原因核查、材料准备、官方提交、进度跟踪和恢复整改逐步处理。先确认限制类型，再用真实资料说明经营场景，避免重复提交或情绪化申诉，通常比盲目更换账号更稳妥。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号商铺申诉运营流程
 

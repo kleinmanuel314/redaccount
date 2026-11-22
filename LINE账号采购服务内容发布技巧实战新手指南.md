@@ -2,9 +2,9 @@
 
 LINE账号采购服务内容发布技巧实战新手指南：LINE账号采购服务的重点，不是单纯购买数量，而是获得来源清晰、用途合规、可正常运营的账号。新手发布服务内容时，应先确认账号类型、地区、注册状态与售后规则，再围绕真实用户需求设计文案，避免批量注册、虚假宣传和骚扰式推广。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号采购服务
 

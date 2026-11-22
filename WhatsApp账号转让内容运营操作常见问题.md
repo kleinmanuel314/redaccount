@@ -2,9 +2,9 @@
 
 WhatsApp账号转让内容运营操作常见问题：WhatsApp账号转让并非改个密码那么简单，最重要的是确认账号归属、完成安全交接，并遵守WhatsApp服务条款。转让前应核验手机号、企业资料和历史使用情况，避免因异常登录、群发营销或投诉导致账号被限制。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号转让
 

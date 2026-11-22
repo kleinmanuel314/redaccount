@@ -2,9 +2,9 @@
 
 QQ账号经销社媒运营运营专业指南：QQ账号经销社媒运营的核心，不是批量购买或转卖账号，而是在遵守腾讯规则和隐私法规的前提下，管理企业自有账号、授权账号及社群资源。想提升转化，应先确认账号来源、使用权限和目标人群，再通过内容、互动与数据复盘建立稳定运营流程。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号经销社媒运营
 

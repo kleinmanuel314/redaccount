@@ -2,9 +2,9 @@
 
 Telegram账号商务合作企业社媒管理操作指南：Telegram账号商务合作企业社媒管理，重点不是单纯发布内容，而是统一账号权限、客户沟通、内容运营与数据复盘。企业应先明确品牌目标，再使用官方客户端、Bot或合规工具建立标准流程，避免群发骚扰、账号封禁和客户信息泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号商务合作企业社媒管理
 

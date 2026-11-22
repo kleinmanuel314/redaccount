@@ -2,9 +2,9 @@
 
 Telegram账号批量交易品牌营销实战攻略：Telegram账号批量交易品牌营销看似能快速扩大触达，实际存在封号、诈骗、隐私泄露和品牌信任受损风险。更稳妥的做法是放弃购买来路不明的账号，改用官方频道、合规广告、机器人和用户授权名单开展营销。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号批量交易品牌营销
 

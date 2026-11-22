@@ -2,9 +2,9 @@
 
 QQ账号账号服务运营技巧操作专业指南：做好QQ账号服务运营，核心是合规、安全和响应速度：先明确服务范围，再建立账号资料、风险监测、客户沟通与售后记录，避免批量注册、虚假交易和绕过安全验证等违规操作。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号服务运营技巧
 

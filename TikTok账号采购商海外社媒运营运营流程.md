@@ -2,9 +2,9 @@
 
 TikTok账号采购商海外社媒运营运营流程：做TikTok账号采购商海外社媒运营，重点不是快速买号，而是完成资质核验、合规交接、内容测试和数据复盘。规范执行TikTok账号采购商海外社媒运营流程，可降低封号、限流及资产丢失风险，并让账号逐步形成稳定的海外获客能力。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购商海外社媒运营流程
 

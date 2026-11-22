@@ -2,9 +2,9 @@
 
 TikTok账号账号服务迁移教程方法：TikTok账号服务迁移，通常是指将账号的运营主体、服务商、商务中心或关联权限转移到新的团队。操作前应先确认账号归属、目标地区和服务范围，再完成资料备份、权限调整与安全验证，避免出现登录受限、广告资产丢失或收益结算中断。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号服务迁移
 

@@ -2,9 +2,9 @@
 
 LINE账号资源对接绑定教程运营详解：LINE账号资源对接绑定的关键，是先确认账号归属与授权，再通过官方后台或Messaging API完成关联。不要直接使用来源不明的账号资源，以免触发风控、数据泄露或账号封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号资源对接绑定
 

@@ -2,9 +2,9 @@
 
 QQ账号批量交易矩阵运营安全指南：QQ账号批量交易的安全重点，不是追求低价和数量，而是确认来源合法、授权清晰、信息可追溯，并符合腾讯及相关平台规则。进行矩阵运营前，应优先评估账号用途、隐私风险和封禁损失，避免购买来历不明或涉及盗号、洗号的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批量交易
 

@@ -2,9 +2,9 @@
 
 TikTok账号库存私域运营运营常见问题：TikTok账号库存私域运营的核心，不是单纯囤积账号，而是建立可追踪、可分级、可复盘的账号管理体系。通过标签、权限和内容计划统一管理库存，能减少账号闲置、登录异常及重复投放问题，同时提高私域客户的承接和转化效率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号库存私域运营
 

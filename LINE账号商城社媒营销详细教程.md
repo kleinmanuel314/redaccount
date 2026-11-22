@@ -2,9 +2,9 @@
 
 LINE账号商城社媒营销详细教程：LINE账号商城社媒营销的核心，是把官方账号、商品目录与聊天转化串联起来。商家可通过内容发布吸引用户，再利用优惠券、群发消息和一对一咨询完成下单。若目标是提升复购，应先明确受众、设置转化路径，并持续追踪点击率、加好友率与成交率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号商城社媒营销
 

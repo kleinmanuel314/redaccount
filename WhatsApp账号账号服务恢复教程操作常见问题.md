@@ -2,9 +2,9 @@
 
 WhatsApp账号账号服务恢复教程操作常见问题：如果WhatsApp账号突然被限制、无法登录或收不到验证码，优先通过官方应用内申诉、绑定手机号验证和安全检查处理。通常资料真实、未违反平台规则的账号，可在数小时至数天内恢复；不要轻信要求付费解封或索要验证码的第三方。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号服务恢复
 

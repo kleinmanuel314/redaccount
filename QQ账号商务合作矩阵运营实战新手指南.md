@@ -2,9 +2,9 @@
 
 QQ账号商务合作矩阵运营实战新手指南：想做好QQ账号商务合作矩阵运营，关键不是批量注册账号，而是围绕明确人群搭建账号分工、内容协同和商务转化流程。新手应先确定一个细分领域，再用少量真实账号测试内容与合作效果，避免因群发广告、重复发布或异常登录触发风控。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号商务合作矩阵运营
 

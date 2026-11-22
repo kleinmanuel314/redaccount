@@ -2,9 +2,9 @@
 
 TikTok账号企业采购品牌营销实战注意事项：企业采购TikTok账号时，不能只看粉丝数量和报价，更要核查账号归属、内容标签、违规记录及转让安全性。完成合规交接后，再结合品牌定位制定内容、投放与转化方案，才能降低封号风险并提升营销回报。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号企业采购
 

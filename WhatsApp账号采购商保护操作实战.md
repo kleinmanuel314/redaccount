@@ -2,9 +2,9 @@
 
 WhatsApp账号采购商保护操作实战：WhatsApp账号采购商保护的核心，是先确认账号来源、使用授权和交付条件，再通过分阶段付款、证据留存与售后约定降低风险。涉及商业沟通时，优先选择官方WhatsApp Business方案，避免购买来历不明的个人账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号采购商保护
 

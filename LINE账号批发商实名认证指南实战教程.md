@@ -2,9 +2,9 @@
 
 LINE账号批发商实名认证指南实战教程：LINE账号批发商实名认证的核心，不是寻找“免验证”或绕过审核的方法，而是确认供应商身份、账号来源与交易主体，并按LINE及当地法规完成真实资料核验。采购前应优先选择可提供公司注册信息、合规合同和售后记录的服务商，避免因批量异常登录导致账号冻结或个人信息泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批发商实名认证
 

@@ -2,9 +2,9 @@
 
 LINE账号渠道合作流量运营入门：LINE账号渠道合作流量运营，核心是通过合作伙伴、内容渠道或社群触达目标用户，再将流量沉淀到LINE官方账号中。入门时应先明确受众与转化目标，使用专属链接、二维码和数据追踪，避免只看好友数量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号渠道合作流量运营
 

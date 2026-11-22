@@ -2,9 +2,9 @@
 
 QQ账号商铺流量运营运营方案：想提升QQ账号商铺的曝光、咨询与成交，关键不是盲目加好友，而是建立清晰的QQ账号商铺流量运营方案。建议从账号定位、内容发布、精准引流和数据复盘四个环节入手，在遵守平台规则的前提下，持续吸引真正有需求的用户。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号商铺流量运营方案
 

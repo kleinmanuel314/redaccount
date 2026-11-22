@@ -2,9 +2,9 @@
 
 Telegram账号资源对接权限管理操作步骤：Telegram账号资源对接权限管理的核心，是通过官方客户端、Bot或API为团队成员分配适当权限，并持续记录授权、使用和撤销情况。实际操作建议先确认账号归属与业务用途，再建立管理员分级、双重验证和审计机制，避免因权限过大导致误发消息、数据泄露或账号受限。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号资源对接权限管理
 

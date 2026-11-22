@@ -2,9 +2,9 @@
 
 LINE账号采购客户运营实战方法：LINE账号采购客户运营的核心，不是大量购买账号后群发，而是围绕合规来源、客户分层和持续跟进建立流程。企业应优先使用官方认证账号或经授权的企业账号，明确客户同意、消息频率与退订机制，才能降低封禁风险并提升转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号采购客户运营
 

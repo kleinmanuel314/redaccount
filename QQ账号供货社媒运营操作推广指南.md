@@ -2,9 +2,9 @@
 
 QQ账号供货社媒运营操作推广指南：QQ账号供货社媒运营的核心，不是批量购买陌生账号，而是建立合规、稳定、可追溯的账号管理体系。运营团队应优先使用企业自有账号、员工授权账号或正规服务商提供的实名资源，并明确用途、权限和售后规则，降低封禁、盗号及隐私泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号供货社媒运营
 

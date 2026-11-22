@@ -2,9 +2,9 @@
 
 QQ账号批量采购内容发布技巧方案的重点，不是大量注册和群发，而是通过企业认证、授权子账号或官方营销工具，建立可追溯、低风险的内容发布流程。若确需采购账号，应先核验来源、使用权限和售后保障，避免因异常登录、骚扰营销导致封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批量采购内容发布技巧方案
 

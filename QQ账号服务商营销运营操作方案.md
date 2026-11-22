@@ -2,9 +2,9 @@
 
 QQ账号服务商营销运营操作方案的核心，不是批量出售账号或规避平台审核，而是在遵守腾讯规则和隐私法规的前提下，做好账号服务、客户获取、交付保障与售后管理。服务商应明确业务边界，使用真实、合规的账号来源，并通过内容营销和客户口碑提升转化率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号服务商营销运营操作方案
 

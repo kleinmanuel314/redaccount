@@ -2,9 +2,9 @@
 
 想通过LINE获取订单，关键不是单纯发布促销，而是把官方账号、商品目录、聊天咨询与支付流程连接起来。LINE账号商城企业营销实战的核心，是利用用户熟悉的聊天场景完成触达、种草、下单和复购，尤其适合零售、餐饮、美妆及跨境电商企业。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号商城企业营销实战
 

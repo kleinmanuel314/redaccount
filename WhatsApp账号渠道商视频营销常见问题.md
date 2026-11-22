@@ -2,9 +2,9 @@
 
 WhatsApp账号渠道商视频营销常见问题：WhatsApp账号渠道商视频营销的核心，不是大量群发视频，而是用清晰、短小且经过授权的内容触达潜在客户。渠道商应先明确受众和转化目标，再通过合规账号、分层名单与数据追踪，持续优化视频内容，才能减少封号风险并提高询盘质量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号渠道商视频营销
 

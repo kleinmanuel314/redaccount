@@ -2,9 +2,9 @@
 
 想做好WhatsApp账号现货SEO优化运营实战，重点不是批量出售账号，而是建立合规、可验证、可持续运营的企业客户触达方案。账号应来源清晰、完成必要验证，并配合真实品牌资料、隐私政策和客户授权，避免因群发、冒用或异常登录导致限制。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号现货SEO优化运营实战
 

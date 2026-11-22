@@ -2,9 +2,9 @@
 
 QQ账号招商客户管理常见问题：QQ账号招商客户管理的关键，是把线索、沟通、跟进和售后统一记录，并严格遵守平台规则。通过客户分层、责任到人和风险复核，可减少重复联系、漏跟进及交易纠纷，提高招商转化率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号招商客户管理
 

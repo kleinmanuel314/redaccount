@@ -2,9 +2,9 @@
 
 TikTok账号代理企业社媒管理运营推广指南：TikTok账号代理企业社媒管理运营推广，适合缺少海外团队、内容经验或本地化资源的企业。专业代理团队可负责账号搭建、内容制作、日常运营、广告投放与数据复盘，帮助品牌更稳定地获取曝光、询盘和转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号代理
 

@@ -2,9 +2,9 @@
 
 QQ账号渠道合作SEO排名优化操作运营指南：想提升QQ账号渠道合作页面的自然排名，重点不是堆砌“账号”关键词，而是围绕正规授权、合作流程、服务保障和用户疑问建设内容，并同步优化页面结构、速度与外链质量。QQ账号渠道合作应以腾讯官方规则及相关法律为前提，拒绝买卖、盗用或批量注册账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号渠道合作
 

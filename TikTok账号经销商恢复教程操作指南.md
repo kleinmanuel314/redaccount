@@ -2,9 +2,9 @@
 
 TikTok账号经销商恢复教程操作指南：遇到账号被封、无法登录或权限异常时，TikTok账号经销商恢复应优先走官方申诉和授权核验流程，不要购买所谓“内部解封”服务。准备注册邮箱、绑定手机号、账号ID、付款凭证及历史运营截图，通常能提高恢复成功率。若账号涉及违规交易，还应先确认责任归属。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号经销商恢复教程
 

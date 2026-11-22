@@ -2,9 +2,9 @@
 
 QQ账号货源安全攻略：寻找QQ账号货源时，安全重点不是“价格最低”，而是来源合法、权属清晰、能够完成实名验证与售后追溯。优先选择腾讯官方渠道或正规授权服务，拒绝来历不明的批量账号，避免遭遇盗号、诈骗、封禁和个人信息泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号货源安全
 

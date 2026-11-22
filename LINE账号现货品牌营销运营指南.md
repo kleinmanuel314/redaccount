@@ -2,9 +2,9 @@
 
 LINE账号现货品牌营销运营指南的重点，不是批量购买账号后立即群发广告，而是建立合规、可追踪、重视用户同意的运营体系。品牌应先确认目标市场、账号用途与预算，再通过正规渠道配置账号，并结合内容营销、客服自动化和数据分析提升转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号现货品牌营销运营指南
 

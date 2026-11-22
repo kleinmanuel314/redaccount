@@ -2,9 +2,9 @@
 
 WhatsApp账号批量交易社媒营销实战步骤：不建议通过WhatsApp账号批量交易开展营销。购买、出租或共享账号可能违反平台规则，带来封号、客户数据泄露和资金损失。更稳妥的做法是使用企业自有号码、WhatsApp Business或官方WhatsApp Business Platform，在获得用户同意后进行分组触达，并通过合规流程提升转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号批量交易
 

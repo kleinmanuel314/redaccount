@@ -2,9 +2,9 @@
 
 Telegram账号平台客户管理运营常见问题：Telegram账号平台客户管理运营的核心，是把客户来源、标签、跟进、售后和数据复盘纳入统一流程。面对多账号、多群组和高频咨询，建议先建立客户台账，再按意向分层触达，同时设置权限、备份与合规检查，以提升响应速度并降低客户流失风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号平台客户管理运营
 

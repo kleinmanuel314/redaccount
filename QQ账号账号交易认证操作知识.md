@@ -2,9 +2,9 @@
 
 QQ账号账号交易认证操作知识：QQ账号交易认证的核心，是通过正规平台完成卖家实名、账号信息核验和交易担保，而不是只看截图或口头承诺。QQ账号交易存在找回、盗号、封禁及隐私泄露风险，操作前应确认平台资质、交易规则和售后责任，切勿私下转账。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号交易认证
 

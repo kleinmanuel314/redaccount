@@ -2,9 +2,9 @@
 
 LINE账号批发商资料完善方案的重点，不是堆砌账号数量，而是让采购方快速确认来源、状态、交付规则与售后责任。资料应真实、可核验，并遵守LINE平台条款及隐私法规，避免使用盗用、虚假注册或来源不明的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批发商资料完善方案
 

@@ -2,9 +2,9 @@
 
 Telegram账号批发商品牌营销操作营销指南：Telegram账号批发商品牌营销的重点，不是大量购买账号，而是建立合规、可追踪的私域触达体系。品牌应优先使用官方频道、群组和机器人，并通过用户授权、内容价值与数据复盘提升转化，避免因群发骚扰导致封禁或损害品牌信誉。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号批发商品牌营销
 

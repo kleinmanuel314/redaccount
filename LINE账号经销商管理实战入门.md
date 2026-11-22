@@ -2,9 +2,9 @@
 
 LINE账号经销商管理实战入门：做好LINE账号经销商管理，重点不只是分配账号，更要建立授权、库存、费用、客户资料和风险监控流程。建议使用分级权限表配合定期审计，既方便经销商拓展业务，也能降低重复销售、资料泄露和账号封禁风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号经销商管理
 

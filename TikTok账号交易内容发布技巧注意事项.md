@@ -2,9 +2,9 @@
 
 TikTok账号交易内容发布技巧注意事项：TikTok账号交易发布内容时，重点不是夸大粉丝数量，而是让买方快速了解账号价值、运营风险和交接条件。清晰展示粉丝画像、内容领域、互动数据及交易流程，并主动说明平台规则限制，才能减少纠纷，提高有效咨询率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号交易
 

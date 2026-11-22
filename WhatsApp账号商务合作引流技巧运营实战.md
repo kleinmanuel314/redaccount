@@ -2,9 +2,9 @@
 
 想通过WhatsApp获得商务合作客户，关键不是批量加人，而是用清晰定位、合规触达和持续跟进建立信任。WhatsApp账号商务合作引流技巧运营实战的核心流程是：完善账号资料，筛选精准联系人，提供有价值的首次沟通，并用标签管理后续转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号商务合作引流技巧运营实战
 

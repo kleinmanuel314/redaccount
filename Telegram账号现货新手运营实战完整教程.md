@@ -2,9 +2,9 @@
 
 Telegram账号现货新手运营实战完整教程：Telegram账号现货通常指已注册、可正常登录并等待交付的Telegram账号。新手运营的重点不是一次购买大量账号，而是确认来源合规、完成安全接管，再通过稳定内容和真实互动逐步建立信任。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号现货
 

@@ -2,9 +2,9 @@
 
 LINE账号零售恢复教程实战方法：LINE账号零售恢复，重点不是寻找所谓“解封工具”，而是确认限制原因、准备真实资料，并通过官方申诉渠道处理。若账号仍能登录，应立即备份聊天记录、联系人及绑定信息；若提示停权，则不要反复尝试登录或更换设备，以免触发更严格的安全审核。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号零售恢复
 

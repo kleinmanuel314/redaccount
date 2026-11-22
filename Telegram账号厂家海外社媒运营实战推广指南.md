@@ -2,9 +2,9 @@
 
 Telegram账号厂家海外社媒运营实战推广指南：Telegram账号厂家海外社媒运营的重点，不是批量购买账号，而是通过合规账号体系、精准内容和数据追踪持续获客。企业应优先使用官方注册账号，明确目标市场，结合频道、群组与广告完成海外推广。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号厂家海外社媒运营
 

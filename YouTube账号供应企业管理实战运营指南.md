@@ -2,9 +2,9 @@
 
 YouTube账号供应企业管理实战运营指南：YouTube账号供应企业管理的重点，不是批量囤积账号，而是建立合规的账号采购、授权、使用、监控与退出机制。企业应优先使用官方注册并完成身份验证的账号，明确员工权限，记录登录设备和操作日志，降低封禁、盗号及数据泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是YouTube账号供应企业管理
 

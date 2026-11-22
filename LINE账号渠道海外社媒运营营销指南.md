@@ -2,9 +2,9 @@
 
 LINE账号渠道海外社媒运营营销指南：想通过LINE触达海外客户，关键不是单纯增加好友，而是建立“官方账号＋获客渠道＋内容运营＋数据跟进”的闭环。LINE账号渠道海外社媒运营营销适合电商、教育、旅游和本地服务品牌，可通过分区运营、优惠推送与人工咨询，提高用户留存和转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号渠道
 

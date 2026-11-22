@@ -2,9 +2,9 @@
 
 LINE账号供应合作关键词优化运营实战：LINE账号供应合作关键词优化运营的核心，不是堆砌“账号供应”等词，而是围绕合法账号、稳定服务与合作流程建立可信内容。面向企业客户时，应清楚说明账号用途、开通条件、售后支持及合规边界，帮助用户快速判断供应商是否可靠。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号供应合作关键词优化运营
 

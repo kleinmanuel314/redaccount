@@ -2,9 +2,9 @@
 
 Telegram账号代理商客户运营运营安全指南：Telegram账号代理商最关心的不是单纯增加客户，而是保证账号、数据与沟通链路不被盗用。建议采用实名授权、分级权限、双重验证和定期审计，避免群发骚扰、虚假承诺及违规引流，从源头降低封号和投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号代理商客户运营安全指南
 

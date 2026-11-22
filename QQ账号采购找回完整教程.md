@@ -2,9 +2,9 @@
 
 QQ账号采购找回完整教程：QQ账号采购找回并不是简单的交易售后问题。购买他人账号存在被原持有人申诉、冻结或追回的风险，严重时还可能涉及诈骗。若账号属于本人，应优先通过腾讯官方渠道验证身份找回，切勿依赖所谓“强制找回”服务。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号采购找回
 

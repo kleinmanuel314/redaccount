@@ -2,9 +2,9 @@
 
 QQ账号批量交易引流技巧实战教程：不建议通过QQ账号批量交易引流。此类账号来源、授权和实名状态难以核验，容易触发封号、诈骗、隐私泄露及法律风险。更稳妥的做法是使用企业QQ、公众号、社群二维码和广告平台，通过真实用户 consent 建立可持续获客流程。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批量交易引流技巧
 

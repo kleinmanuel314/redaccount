@@ -2,9 +2,9 @@
 
 YouTube账号批发安全实战技巧的核心，不是追求低价和数量，而是确认账号来源合法、权属清晰，并能长期稳定使用。购买前应核验创建记录、频道主题、历史违规情况及转让授权，避免因盗号、虚假资料或异常登录导致封禁。任何交易都不应绕过平台规则，也不要购买承诺“永久免封”的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是YouTube账号批发安全实战技巧
 

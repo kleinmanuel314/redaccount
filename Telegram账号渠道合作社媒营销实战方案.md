@@ -2,9 +2,9 @@
 
 Telegram账号渠道合作社媒营销实战方案：Telegram账号渠道合作社媒营销的关键，不是盲目群发，而是筛选垂直账号、制作可追踪内容并持续复盘。建议先用小预算测试3—5个渠道，再按点击与转化数据扩量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号渠道合作社媒营销
 

@@ -2,9 +2,9 @@
 
 YouTube账号交易注册实战方案的核心，不是快速买到账号，而是先确认平台规则、账号来源和控制权。多数个人账号转让存在封禁、找回或付款纠纷风险。更稳妥的做法是使用真实资料注册新账号，或通过官方支持的品牌账号权限转移完成交接。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是YouTube账号交易注册实战方案
 

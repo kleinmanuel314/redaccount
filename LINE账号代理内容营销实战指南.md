@@ -2,9 +2,9 @@
 
 LINE账号代理内容营销实战指南：LINE账号代理内容营销的核心，不是批量发送广告，而是借助合规账号、精准内容和持续运营建立用户信任。企业应先明确目标人群，再通过LINE官方账号发布有价值的信息，并利用标签、自动回复和数据分析提升转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号代理
 

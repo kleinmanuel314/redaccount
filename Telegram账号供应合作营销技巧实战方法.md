@@ -2,9 +2,9 @@
 
 Telegram账号供应合作营销技巧实战方法：Telegram账号供应合作营销技巧的核心，不是大量购买或群发，而是建立合规、可追溯的账号合作体系：确认账号来源合法、明确使用权限，再通过精准内容和分层运营提高转化。建议优先选择企业认证账号、官方机器人或经授权的频道资源，避免使用盗用、批量注册及无法验证归属的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号供应合作营销技巧
 

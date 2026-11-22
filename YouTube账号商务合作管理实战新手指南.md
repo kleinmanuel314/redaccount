@@ -2,9 +2,9 @@
 
 YouTube账号商务合作管理实战新手指南：YouTube账号商务合作管理的核心，是把品牌筛选、报价沟通、内容交付和回款记录统一起来。新手可先建立合作表格，明确账号受众、广告形式、发布时间与验收标准，再用数据和合同降低沟通成本，避免“有询盘却无法成交”。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是YouTube账号商务合作管理
 

@@ -2,9 +2,9 @@
 
 TikTok账号店铺企业运营运营安全指南：做好TikTok账号店铺企业运营安全，关键是建立“权限可控、数据可查、风险可回溯”的管理体系。企业应使用官方工具，启用双重验证，分级分配账号权限，并定期检查登录、订单和广告异常。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号店铺企业运营安全
 

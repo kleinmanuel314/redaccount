@@ -2,9 +2,9 @@
 
 百度账号零售SEO优化操作常见问题：百度账号零售SEO优化的重点，不是反复堆砌“账号”关键词，而是让真实用户快速找到合规、清晰、可验证的服务信息。建议先明确账号用途、适用人群、交付流程和售后规则，再通过原创页面、合理内链与持续数据分析提升自然排名。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是百度账号零售SEO优化
 

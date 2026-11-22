@@ -2,9 +2,9 @@
 
 LINE账号企业采购社媒推广教程操作完整教程：LINE账号企业采购社媒推广的关键，不是大量购买账号，而是通过官方企业账号、合规授权与精准内容触达客户。企业应先明确市场和目标，再搭建可追踪的推广流程，避免封号及数据泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号企业采购社媒推广
 

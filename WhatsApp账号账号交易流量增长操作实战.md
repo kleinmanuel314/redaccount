@@ -2,9 +2,9 @@
 
 WhatsApp账号账号交易流量增长操作实战：想提升WhatsApp账号交易流量，关键不是批量购买账号，而是使用合规的WhatsApp Business账号，结合真实用户授权、内容运营与数据跟踪。未经同意买卖或群发账号，容易触发封禁，也可能造成隐私和资金风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号交易流量增长
 

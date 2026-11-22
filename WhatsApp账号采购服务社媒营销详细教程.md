@@ -2,9 +2,9 @@
 
 WhatsApp账号采购服务社媒营销详细教程：WhatsApp账号采购服务不应等同于批量购买陌生账号。更稳妥的做法是通过官方渠道注册企业号码，完成实名、资料验证与用户授权，再结合WhatsApp Business或官方API开展社媒营销，降低封号和隐私合规风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号采购服务
 

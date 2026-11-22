@@ -2,9 +2,9 @@
 
 TikTok账号交易找回操作详解：TikTok账号交易找回的关键是先确认账号归属，再通过官方申诉提交交易凭证、原始注册信息和登录异常记录。若账号被卖家改绑或交易后无法登录，应立即停止继续转账，保存聊天记录、付款凭证及账号资料，并优先联系TikTok官方支持处理，切勿购买所谓“内部找回”服务。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号交易找回
 

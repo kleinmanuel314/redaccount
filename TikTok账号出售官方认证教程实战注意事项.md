@@ -2,9 +2,9 @@
 
 TikTok账号出售官方认证教程实战注意事项：TikTok账号出售涉及平台规则、身份认证和资金安全，不能仅靠改邮箱、换手机号就完成合规转让。更稳妥的做法是先确认账号是否允许交易，再通过官方支持渠道核实认证变更要求，并使用第三方担保或分阶段付款，避免买到盗号、违规或无法提现的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号出售官方认证
 

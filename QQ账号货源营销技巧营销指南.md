@@ -2,9 +2,9 @@
 
 QQ账号货源营销技巧营销指南：QQ账号货源营销技巧的核心，不是批量购买或转卖个人账号，而是通过合规渠道获取企业QQ、客服工具和真实客户线索。想提高转化率，应先明确目标客户，再结合内容运营、社群服务与数据复盘，避免群发骚扰、虚假宣传及账号买卖带来的封禁和隐私风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号货源营销技巧
 

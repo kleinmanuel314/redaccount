@@ -2,9 +2,9 @@
 
 QQ账号渠道增长方法操作流程：QQ账号渠道增长方法的核心，是围绕明确人群选择合规渠道，通过内容吸引、社群承接和数据复盘持续获客，而不是批量注册、骚扰加好友或购买低质量账号。建议先确定目标用户，再搭建可追踪的增长流程。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号渠道增长方法
 

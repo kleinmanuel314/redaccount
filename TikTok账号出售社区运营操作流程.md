@@ -2,9 +2,9 @@
 
 TikTok账号出售社区运营操作流程：TikTok账号出售社区运营的核心，不是单纯撮合交易，而是建立实名认证、账号验真、担保付款和售后交接流程。运营者应先确认账号来源合法、内容资产清晰，并提醒买卖双方遵守TikTok平台规则，降低封禁、纠纷与诈骗风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号出售社区运营
 

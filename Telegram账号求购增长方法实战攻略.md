@@ -2,9 +2,9 @@
 
 Telegram账号求购增长方法实战攻略：想提升Telegram社群或频道增长，关键不是盲目购买账号，而是建立Telegram账号求购增长方法：选择来源合规、资料真实、受众匹配的账号，再通过内容、私域承接和数据复盘实现稳定增长。购买前应确认账号归属、注册时间、活跃地区及历史违规记录，避免因异常登录或批量操作导致限制。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号求购增长方法
 

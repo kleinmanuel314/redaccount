@@ -2,9 +2,9 @@
 
 QQ账号批量供应客户运营操作攻略：QQ账号批量供应客户运营的核心，不是单纯购买大量账号，而是在遵守平台规则、取得用户授权的前提下，建立可追溯的客户分组、沟通和服务流程。建议优先使用企业主体认证、官方接口或员工协作工具，避免来路不明的账号引发封禁、隐私泄露和客户投诉。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批量供应
 

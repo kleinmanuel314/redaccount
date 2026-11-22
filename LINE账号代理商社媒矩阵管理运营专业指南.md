@@ -2,9 +2,9 @@
 
 LINE账号代理商社媒矩阵管理运营专业指南：LINE账号代理商社媒矩阵管理运营的重点，不是单纯增加账号数量，而是让官方账号、地区账号与活动账号分工协作。代理商应统一内容策略、发布节奏和数据标准，在保证账号安全的同时提升触达、转化与客户留存。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号代理商社媒矩阵管理运营
 

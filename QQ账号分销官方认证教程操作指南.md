@@ -2,9 +2,9 @@
 
 QQ账号分销官方认证教程操作指南：办理QQ账号分销官方认证，关键不是购买“认证名额”，而是通过腾讯官方或授权平台提交真实主体、经营用途和合规材料。个人或企业应先核验渠道资质，再完成实名认证、签约及售后备案，避免账号来源不明、封禁或资金损失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号分销官方认证
 

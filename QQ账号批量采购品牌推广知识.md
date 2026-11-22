@@ -2,9 +2,9 @@
 
 QQ账号批量采购品牌推广知识：如果你正在了解QQ账号批量采购用于品牌推广，先要明确：低价购买大量个人账号并不等于有效营销，账号来源、实名认证、登录环境和历史行为都可能引发封禁、投诉及隐私风险。更稳妥的做法是使用企业QQ、官方广告资源和经过授权的社群渠道，建立可追踪、可复盘的推广体系。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批量采购
 

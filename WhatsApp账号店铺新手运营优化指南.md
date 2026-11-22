@@ -2,9 +2,9 @@
 
 WhatsApp账号店铺新手运营优化指南：运营WhatsApp账号店铺，关键不是频繁发消息，而是先完善资料、做好客户分层，再用稳定内容和及时服务促成转化。新手可从企业头像、简介、商品目录、自动回复及跟进流程入手，降低咨询流失并提升复购率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号店铺运营优化
 

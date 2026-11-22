@@ -2,9 +2,9 @@
 
 WhatsApp账号服务商社媒营销实战实战：WhatsApp账号服务商社媒营销的核心，是通过合规账号资源、内容运营和数据追踪，把社交曝光转化为有效咨询与成交。服务商不应只负责提供账号，还要帮助企业完成账号养护、客户分层、私聊转化和风险控制，尤其适合跨境电商、外贸及本地生活业务。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号服务商社媒营销
 

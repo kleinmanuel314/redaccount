@@ -2,9 +2,9 @@
 
 LINE账号出售登录安全详解：关于LINE账号出售登录安全，最重要的结论是：不建议购买来源不明的账号，也不要向他人提供短信验证码、密码或登录二维码。此类账号可能被原持有人找回，甚至绑定恶意设备。确有业务需要时，应优先使用官方注册账号，并在登录后立即完成安全检查。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号出售登录安全
 

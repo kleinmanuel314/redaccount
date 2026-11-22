@@ -2,9 +2,9 @@
 
 LINE账号招商社媒运营操作知识：LINE账号招商社媒运营的重点，不是单纯发布广告，而是通过合规账号、稳定内容和持续转化，建立可追踪的获客流程。招商团队应先明确目标市场，再规划内容、咨询接待与数据复盘，避免因群发过度或账号来源不明造成封禁和信任下降。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号招商社媒运营
 

@@ -2,9 +2,9 @@
 
 LINE账号供货认证方案的核心，是通过实名资质、来源审查、权限管理和售后追踪，筛选合规的LINE企业账号供应商。企业不应购买无来源的大量个人账号，而应优先选择LINE Official Account、Messaging API等官方产品，降低封号、诈骗和数据泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号供货认证方案
 

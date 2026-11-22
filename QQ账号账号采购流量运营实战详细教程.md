@@ -2,9 +2,9 @@
 
 QQ账号账号采购流量运营实战详细教程：QQ账号采购流量运营的关键，不是大量购买账号，而是通过合规账号体系、精准内容和数据复盘获取有效用户。建议优先使用企业认证账号与官方推广工具，避免买卖、出租账号引发封禁、诈骗或隐私风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号采购流量运营
 

@@ -2,9 +2,9 @@
 
 Telegram账号账号采购恢复教程运营新手指南：Telegram账号采购后无法登录时，优先通过官方客户端、绑定手机号和Telegram支持渠道恢复，不建议购买来源不明的账号。所谓Telegram账号采购恢复教程，重点不是绕过验证，而是确认账号归属、保护登录安全，并建立合规的日常运营流程。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号采购恢复教程
 

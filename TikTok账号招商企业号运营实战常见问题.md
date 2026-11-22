@@ -2,9 +2,9 @@
 
 TikTok账号招商企业号运营实战常见问题：开展TikTok账号招商企业号运营，核心是用企业账号持续展示招商价值、筛选精准客户并推动私信或表单转化，而不是单纯追求播放量。新账号建议先明确招商对象、合作门槛和区域，再用短视频验证内容方向，通常比盲目投放更稳。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号招商企业号运营
 

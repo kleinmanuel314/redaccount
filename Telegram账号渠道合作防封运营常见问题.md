@@ -2,9 +2,9 @@
 
 Telegram账号渠道合作防封运营常见问题：Telegram账号渠道合作防封运营的核心，不是规避平台审核，而是建立合规、可追溯、可持续的账号与合作流程。渠道方应使用真实资料注册账号，控制推广频率，获得用户明确同意，并及时处理投诉，才能降低误封和连带风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号渠道合作防封运营
 

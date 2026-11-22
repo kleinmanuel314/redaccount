@@ -2,9 +2,9 @@
 
 LINE账号货源多账号管理操作注意事项：LINE账号货源多账号管理的关键，不是单纯增加账号数量，而是建立清晰的账号分组、权限、登录环境与风险监测机制。建议先确认账号来源合法可靠，再使用统一表格或合规管理工具记录账号状态，避免因重复登录、异常操作或资料混乱导致封禁和客户流失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号货源多账号管理
 

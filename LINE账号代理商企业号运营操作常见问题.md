@@ -2,9 +2,9 @@
 
 LINE账号代理商企业号运营操作常见问题：LINE账号代理商企业号运营的重点，不只是完成注册，还包括账号认证、好友沉淀、消息触达、权限管理与数据复盘。企业应先确认业务地区和客户来源，再制定内容、客服及合规流程，避免因操作不当导致限流或封号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号代理商企业号运营
 

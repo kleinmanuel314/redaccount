@@ -2,9 +2,9 @@
 
 做好QQ账号零售内容营销运营方法，关键不是单纯发布“低价账号”广告，而是围绕账号用途、来源合规、售后保障和真实案例建立信任。建议先明确目标客户，再用搜索友好的内容回答注册、交付、安全和售后问题，配合落地页、客服咨询与数据复盘，逐步提高有效询盘和转化率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号零售内容营销运营方法
 

@@ -2,9 +2,9 @@
 
 TikTok账号货源品牌营销流程的核心，是先确定目标市场，再完成选品、供应链搭建、内容推广与数据复盘。商家应先验证需求和利润，再通过短视频、直播及达人合作，把稳定货源转化为持续订单。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号货源品牌营销流程
 

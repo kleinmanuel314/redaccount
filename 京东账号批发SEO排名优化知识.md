@@ -2,9 +2,9 @@
 
 想了解京东账号批发SEO排名优化知识，首先要明确：批量买卖、出租或共享京东账号可能违反平台规则，并带来实名信息泄露、资金冻结及售后纠纷。更稳妥的做法，是围绕合规的电商代运营、企业采购账号管理和店铺服务进行内容优化，吸引真实且有明确需求的客户。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是京东账号批发SEO排名优化
 

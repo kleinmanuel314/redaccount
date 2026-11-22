@@ -2,9 +2,9 @@
 
 钉钉账号合作SEO优化运营注意事项的核心，是先确认合作主体与授权范围，再围绕真实用户需求发布内容。运营者应避免批量注册、虚假评价、关键词堆砌和诱导点击，否则可能影响账号信用、页面收录，甚至触发平台风控。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是钉钉账号合作SEO优化运营注意事项
 

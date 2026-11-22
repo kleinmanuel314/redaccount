@@ -2,9 +2,9 @@
 
 WhatsApp账号经销申诉推广指南：遇到WhatsApp账号被限制、客户无法正常沟通时，应先停止群发和异常登录，再通过官方申诉入口提交真实资料。WhatsApp账号经销申诉推广的重点不是“快速解封”，而是证明账号用途合法、来源清晰，并以合规服务吸引有真实业务需求的客户。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号经销申诉
 

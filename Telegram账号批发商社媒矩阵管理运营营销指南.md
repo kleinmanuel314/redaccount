@@ -2,9 +2,9 @@
 
 Telegram账号批发商社媒矩阵管理运营营销指南：做好Telegram账号批发商社媒矩阵运营，关键不是盲目增加账号，而是选择来源合规、可追溯的账号，配合分组管理、内容差异化和数据监测，建立稳定的获客与客户服务流程。任何营销活动都应遵守Telegram规则及当地隐私、广告法规。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号批发商社媒矩阵管理
 

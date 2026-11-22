@@ -2,9 +2,9 @@
 
 Telegram账号分销企业号运营实战入门：Telegram账号分销企业号运营的核心，不是批量注册或群发广告，而是建立合规的账号管理、客户分层和内容转化流程。企业应先明确目标市场，使用真实授权的账号与联系人，并通过数据记录提升复购和服务效率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号分销企业号运营
 

@@ -2,9 +2,9 @@
 
 TikTok账号资源对接推广技巧操作详解：想做好TikTok账号资源对接推广，关键不是盲目购买账号，而是建立真实、合规、可追踪的合作流程。推广前应先确认账号定位、受众地区、内容垂直度和历史数据，再通过达人、机构或品牌方完成匹配，降低封号与投放浪费风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号资源对接推广
 

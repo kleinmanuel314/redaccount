@@ -2,9 +2,9 @@
 
 Telegram账号店铺找回运营专业指南：遇到Telegram账号店铺无法登录、管理员丢失或运营中断时，优先通过官方验证、原绑定手机号和设备会话找回，不要购买所谓“内部恢复”服务。Telegram账号店铺找回运营的重点，是确认账号归属、恢复管理权限，并在找回后重新建立安全运营流程。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号店铺找回运营
 

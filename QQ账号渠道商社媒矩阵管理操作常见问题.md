@@ -2,9 +2,9 @@
 
 QQ账号渠道商社媒矩阵管理操作常见问题：QQ账号渠道商社媒矩阵管理的核心，是统一规划账号、内容、权限与数据，避免重复发布、账号失控和违规。实际操作应优先保证账号实名、授权清晰，并建立发布审核、风险预警和异常停用机制。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号渠道商社媒矩阵管理
 

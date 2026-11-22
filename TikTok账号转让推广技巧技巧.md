@@ -2,9 +2,9 @@
 
 TikTok账号转让推广技巧技巧：做好TikTok账号转让推广技巧，关键不是单纯发布“低价出售”，而是让潜在买家清楚了解账号定位、粉丝质量、内容表现和交易风险。推广前应确认账号符合TikTok平台规则，避免出售受限账号、虚假粉丝账号或存在版权争议的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号转让推广技巧
 

@@ -2,9 +2,9 @@
 
 Telegram账号供应企业管理优化指南：Telegram账号供应企业管理优化的核心，不是批量购买或囤积账号，而是建立合规、可追溯、可停用的账号生命周期管理体系。企业应先明确使用场景，再通过授权渠道配置账号、权限和安全策略，降低封禁、数据泄露及客户投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号供应企业管理优化
 

@@ -2,9 +2,9 @@
 
 想提升TikTok账号合作的曝光与转化，关键不是单纯增加发布量，而是建立可执行的SEO优化运营步骤：明确关键词、筛选合作账号、优化内容结构，并持续分析数据。以下方法适合品牌、跨境电商及达人营销团队使用。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号合作SEO优化运营步骤
 

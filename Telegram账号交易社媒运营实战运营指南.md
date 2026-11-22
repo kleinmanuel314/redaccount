@@ -2,9 +2,9 @@
 
 Telegram账号交易社媒运营实战运营指南：Telegram账号交易社媒运营的重点，不是低价买号，而是确认账号来源、受众质量与合规边界。更稳妥的做法是优先使用企业自建账号，交易前完成权限、历史内容和安全风险审查，避免因封号、诈骗或隐私纠纷造成损失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号交易社媒运营
 

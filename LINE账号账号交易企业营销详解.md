@@ -2,9 +2,9 @@
 
 LINE账号账号交易企业营销详解：LINE账号交易并不是企业拓客的捷径。企业营销更应使用官方LINE账号，通过实名认证、分层运营和内容触达建立长期客户关系；购买来历不明的账号，可能面临封号、数据泄露及品牌信任受损。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号交易
 

@@ -2,9 +2,9 @@
 
 YouTube账号账号服务注册攻略：YouTube账号服务注册并不复杂，通常使用Google账号登录YouTube，完成频道名称、头像和基础资料设置即可。建议通过官方入口操作，提前准备可接收验证码的邮箱或手机号，避免使用来源不明的代注册服务。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是YouTube账号服务注册
 

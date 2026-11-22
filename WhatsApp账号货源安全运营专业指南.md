@@ -2,9 +2,9 @@
 
 WhatsApp账号货源安全运营专业指南：WhatsApp账号货源安全运营的关键，不是低价购买大量账号，而是使用本人实名、来源可核验并获得授权的账号，配合合规内容、稳定设备和分级管理，降低封号、诈骗及隐私泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号货源安全运营
 

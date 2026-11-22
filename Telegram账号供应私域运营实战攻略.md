@@ -2,9 +2,9 @@
 
 Telegram账号供应私域运营实战攻略：Telegram账号供应私域运营的关键，不是批量购买账号，而是通过合规注册、用户授权和精细化内容运营，建立可持续的社群触达体系。账号来源不明、批量群发或绕过风控，容易导致封禁并损害品牌信任。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号供应私域运营
 

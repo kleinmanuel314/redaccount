@@ -2,9 +2,9 @@
 
 LINE账号招商异常处理运营教程：遇到LINE账号招商异常，先暂停批量加好友、群发消息和频繁登录，记录提示代码、操作时间及设备信息，再完成手机号或邮箱验证，并通过官方申诉渠道提交业务说明。规范执行LINE账号招商异常处理运营，可降低误封风险，避免影响客户沟通。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号招商异常处理运营
 

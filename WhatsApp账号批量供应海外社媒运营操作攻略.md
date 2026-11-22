@@ -2,9 +2,9 @@
 
 WhatsApp账号批量供应海外社媒运营操作攻略：WhatsApp账号批量供应适合有多地区客服、销售或社媒矩阵需求的团队，但不等于大量注册后群发消息。更稳妥的做法是选择来源合规、归属清晰的账号，并结合WhatsApp Business功能、客户授权和统一管理工具，降低封禁与数据泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号批量供应
 

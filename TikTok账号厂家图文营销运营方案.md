@@ -2,9 +2,9 @@
 
 TikTok账号厂家图文营销运营方案的核心，是用合规账号资源配合本地化图片、短文和数据复盘，持续吸引目标用户。适合跨境电商、工厂品牌及外贸企业，重点不在账号数量，而在内容质量、发布节奏与转化路径。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号厂家图文营销运营方案
 

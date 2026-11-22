@@ -2,9 +2,9 @@
 
 处理WhatsApp账号出售企业管理常见问题时，首要原则是确认账号来源、使用权限和平台合规性。企业不应购买来历不明的个人账号或批量账号，否则可能遭遇封号、客户数据丢失及隐私泄露。更稳妥的做法是使用WhatsApp Business，或通过官方API建立企业资产。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号出售企业管理
 

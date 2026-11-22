@@ -2,9 +2,9 @@
 
 Telegram账号库存营销运营实战优化指南：Telegram账号库存营销运营的关键，不是大量囤积账号，而是建立来源合规、标签清晰、节奏可控的账号管理体系。企业应优先使用官方注册账号和真实授权用户，配合内容分层、数据追踪与风险监控，才能稳定获取有效咨询，避免因群发骚扰导致限制。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号库存营销运营
 

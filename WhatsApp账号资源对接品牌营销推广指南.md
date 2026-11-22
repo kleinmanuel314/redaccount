@@ -2,9 +2,9 @@
 
 WhatsApp账号资源对接品牌营销推广指南：WhatsApp账号资源是品牌开展海外营销时的重要触点，但不等于批量购买账号。更稳妥的做法是使用企业自有号码、WhatsApp Business或官方API，结合用户授权、分层运营和持续服务，实现可追踪的品牌推广。这样既能提升触达率，也能降低封号与隐私合规风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号资源
 

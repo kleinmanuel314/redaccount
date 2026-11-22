@@ -2,9 +2,9 @@
 
 TikTok账号渠道商客户运营运营常见问题：TikTok账号渠道商客户运营的常见问题，主要集中在账号稳定性、客户预期、内容增长和售后响应。解决关键不是单纯提供账号，而是建立资质审核、使用指导、数据监测和风险预案，让客户清楚账号适用场景及运营边界。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号渠道商客户运营
 

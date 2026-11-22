@@ -2,9 +2,9 @@
 
 WhatsApp账号经销商多账号管理实战实战：WhatsApp账号经销商多账号管理的核心，是在合规前提下统一维护多个客户账号、权限、消息与数据。实际运营中，不应依赖共享密码或频繁切换设备，而应使用官方WhatsApp Business、Meta Business Manager及清晰的员工权限，降低封号、误发和客户信息泄露风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号经销商多账号管理
 

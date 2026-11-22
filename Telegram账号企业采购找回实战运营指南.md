@@ -2,9 +2,9 @@
 
 Telegram账号企业采购找回实战运营指南：企业采购Telegram账号后无法登录，优先核验账号来源、绑定手机号和付款凭证，再通过官方登录及申诉渠道处理。Telegram账号企业采购找回不能依赖“内部解封”或陌生人代操作，避免二次被骗或泄露客户资料。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号企业采购找回
 

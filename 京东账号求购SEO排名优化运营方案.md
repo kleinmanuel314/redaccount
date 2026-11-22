@@ -2,9 +2,9 @@
 
 想提升京东店铺曝光，关键不是购买来历不明的账号，而是通过企业主体认证、官方入驻或合规授权，配合内容与商品运营。京东账号求购SEO排名优化运营方案应以账号安全、商品质量和持续转化为核心，避免因违规交易、虚假评价或异常操作导致限流。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是京东账号求购SEO排名优化运营方案
 

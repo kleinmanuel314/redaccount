@@ -2,9 +2,9 @@
 
 Telegram账号渠道商内容发布技巧指南：Telegram账号渠道商发布内容时，核心不是高频刷屏，而是先确认受众、遵守平台规则，再通过稳定节奏和真实价值提升阅读与转化。建议先做小范围测试，观察7天数据后再扩大投放。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号渠道商
 

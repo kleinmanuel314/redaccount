@@ -2,9 +2,9 @@
 
 Telegram账号商城企业号运营运营详细教程：Telegram企业号运营的重点不是批量购买账号或群发广告，而是建立合规的品牌主页、客服流程与内容转化体系。企业应使用真实注册、完成安全验证的官方账号，明确服务对象和地域规则，再通过频道、群组及私聊客服承接用户。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram企业号运营
 

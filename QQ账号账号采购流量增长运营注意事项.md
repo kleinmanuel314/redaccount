@@ -2,9 +2,9 @@
 
 QQ账号账号采购流量增长运营注意事项：QQ账号采购流量增长运营不能只看账号数量，关键在于来源合规、用户匹配和持续运营。优先选择官方渠道或企业授权账号，避免购买来历不明的账号，否则可能出现封禁、掉粉、诈骗投诉及数据泄露等问题。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号采购流量增长运营
 

@@ -2,9 +2,9 @@
 
 QQ账号平台图文营销实战营销指南：QQ账号平台图文营销的关键，不是单纯发布广告，而是用目标用户愿意阅读的内容建立信任，再引导咨询或成交。实操时应先明确受众、设计主题，持续发布图文，并通过阅读、点击和转化数据优化内容。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号平台图文营销
 

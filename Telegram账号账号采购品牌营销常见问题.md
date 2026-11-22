@@ -2,9 +2,9 @@
 
 Telegram账号账号采购品牌营销常见问题：Telegram账号采购品牌营销的核心，不是大量购买账号群发广告，而是建立可验证、可管理且符合平台规则的品牌触点。低价账号可能存在实名信息不明、批量注册、登录异常和被封禁风险。品牌应优先使用企业自建账号、官方频道或合规服务商提供的账号管理方案。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号采购品牌营销
 

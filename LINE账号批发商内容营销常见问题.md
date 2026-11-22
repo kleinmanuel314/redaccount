@@ -2,9 +2,9 @@
 
 LINE账号批发商内容营销常见问题：LINE账号批发商内容营销的重点，不是单纯宣传“账号数量”和低价，而是向企业说明账号来源、使用场景、合规边界与售后服务。优质内容应帮助客户判断风险，避免购买来路不明、重复使用或可能被封禁的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批发商内容营销
 

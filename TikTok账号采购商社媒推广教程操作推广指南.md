@@ -2,9 +2,9 @@
 
 TikTok账号采购商社媒推广教程操作推广指南：想做好TikTok账号采购商社媒推广，关键不是盲目购买粉丝多的账号，而是先核对账号来源、受众地区与内容标签，再用稳定内容和合规投放建立信任。采购前应确认转让授权，避免因违规交易、虚假资料或历史处罚导致账号被限流、封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购商社媒推广
 

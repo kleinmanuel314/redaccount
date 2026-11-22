@@ -2,9 +2,9 @@
 
 WhatsApp账号批量采购找回实战方案：WhatsApp账号批量采购找回，核心不是购买他人账号，而是为企业合规配置号码，并通过官方流程恢复被锁定或误停用的账号。建议使用企业自有手机号、WhatsApp Business或官方API，保留实名、付款和授权记录，避免因来源不明导致批量封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号批量采购找回
 

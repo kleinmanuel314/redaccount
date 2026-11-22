@@ -2,9 +2,9 @@
 
 LINE账号批量采购多账号管理操作详细教程：LINE账号批量采购多账号管理的关键，不是单纯购买大量账号，而是通过官方渠道建立可验证、可分权、可追踪的账号体系。企业应优先使用LINE Official Account、LINE WORKS或官方合作服务，避免来源不明的个人账号导致封禁、数据泄露和客户投诉。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批量采购多账号管理
 

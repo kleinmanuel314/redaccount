@@ -2,9 +2,9 @@
 
 Telegram账号厂家保护操作推广指南：Telegram账号保护的关键，是使用真实合规的账号来源，完成双重验证、登录审计和权限分级，再通过获得同意的内容推广触达用户。所谓Telegram账号厂家，应重点考察注册来源、售后安全能力和隐私合规，而不是单纯追求账号数量或低价。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号保护
 

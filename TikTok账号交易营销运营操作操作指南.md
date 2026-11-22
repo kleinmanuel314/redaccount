@@ -2,9 +2,9 @@
 
 TikTok账号交易营销运营操作操作指南：TikTok账号交易营销运营操作指南的核心，是先核验账号资产与合规风险，再完成安全交接，最后用数据驱动内容增长。买方不要只看粉丝数量，还应检查粉丝地域、互动率、历史违规记录、内容垂直度及商业权限，避免买到“高粉低活”或存在封禁隐患的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号交易
 

@@ -2,9 +2,9 @@
 
 LINE账号批发商资料完善操作步骤，重点不是单纯补全昵称，而是核对账号来源、主体信息、用途说明及安全设置。建议先确认账号来自合规渠道，再逐个完善资料并进行功能测试，避免因资料虚假、批量异常登录或营销行为导致限制。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批发商资料完善操作步骤
 

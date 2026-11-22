@@ -2,9 +2,9 @@
 
 TikTok账号采购多账号管理知识：TikTok账号采购多账号管理的重点，不是单纯增加账号数量，而是确保账号来源合规、权限清晰、运营稳定。采购前应核验注册信息、历史违规记录和内容领域；采购后则要通过分组、权限、设备及数据台账进行统一管理，降低封禁、关联和资产流失风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购多账号管理
 

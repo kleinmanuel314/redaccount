@@ -2,9 +2,9 @@
 
 TikTok账号分销恢复教程操作运营指南：TikTok账号分销恢复的关键，不是反复注册新号，而是先确认限制原因，再通过申诉、整改和稳定运营恢复分销权限。若涉及虚假宣传、侵权、异常登录或订单违规，应保留通知截图、订单记录和授权证明，按平台流程处理。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号分销恢复
 

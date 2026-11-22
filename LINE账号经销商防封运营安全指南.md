@@ -2,9 +2,9 @@
 
 LINE账号经销商防封运营安全指南：LINE账号经销商防封运营的核心，不是规避平台审核，而是建立合规的账号管理流程。经销商应使用真实资料、控制营销频率、获得用户同意，并保留交易与授权记录，才能降低误封、批量封禁及客户投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号经销商防封运营
 

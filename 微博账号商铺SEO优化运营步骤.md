@@ -2,9 +2,9 @@
 
 微博账号商铺SEO优化运营步骤，核心是完善账号资料、统一关键词、持续发布有价值内容，并通过互动与外部链接提升信任度。商家应先明确产品和用户，再优化昵称、简介、置顶内容及商品入口，最后用数据持续调整。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是微博账号商铺SEO优化
 

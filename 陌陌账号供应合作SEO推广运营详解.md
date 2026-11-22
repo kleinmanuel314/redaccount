@@ -2,9 +2,9 @@
 
 陌陌账号供应合作SEO推广运营详解：要做好陌陌账号供应合作SEO推广运营，重点不是批量买卖个人账号，而是建立合规的企业账号合作、内容发布与搜索获客体系。供应方应确认账号来源、实名授权和平台规则，运营方则通过关键词布局、优质内容及数据复盘，持续提升曝光与转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是陌陌账号供应合作SEO推广运营
 

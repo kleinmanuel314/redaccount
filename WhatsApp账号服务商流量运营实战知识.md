@@ -2,9 +2,9 @@
 
 WhatsApp账号服务商流量运营实战知识：WhatsApp账号服务商流量运营的关键，不是批量加人或频繁群发，而是建立合规获客、账号养护、客户分层和效果追踪的闭环。服务商应优先获取用户授权，再通过有价值的内容和及时响应提升转化，降低封号与投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号服务商流量运营
 

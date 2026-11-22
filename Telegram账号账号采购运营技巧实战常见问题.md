@@ -2,9 +2,9 @@
 
 Telegram账号账号采购运营技巧实战常见问题：Telegram账号采购运营技巧的关键，不是低价大量买号，而是选择来源合法、归属清晰的账号，并通过分层管理、内容规划和风险监测保持稳定运营。企业应优先使用官方注册账号或经授权的企业账号，避免购买被盗号、批量注册号及无法完成身份核验的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号采购运营技巧
 

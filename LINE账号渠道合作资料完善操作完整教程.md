@@ -2,9 +2,9 @@
 
 LINE账号渠道合作资料完善操作完整教程：完善LINE账号渠道合作资料，重点是把品牌身份、联系人、推广渠道与结算信息填写完整，并确保内容真实一致。资料提交前逐项核对，可减少审核退回，提升合作申请通过率。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号渠道合作资料完善
 

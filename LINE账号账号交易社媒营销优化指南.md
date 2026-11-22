@@ -2,9 +2,9 @@
 
 LINE账号账号交易社媒营销优化指南：LINE账号交易并不是社媒营销的捷径。更稳妥的做法是优先注册企业官方账号，通过授权交接、权限分级和内容运营建立长期资产；若涉及账号转让，必须核查来源、绑定信息及平台规则，避免封号、诈骗和客户流失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号交易
 

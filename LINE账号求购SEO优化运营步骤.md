@@ -2,9 +2,9 @@
 
 进行LINE账号求购SEO优化运营步骤时，重点不是大量发布“买号”广告，而是围绕真实需求建立合规页面、清晰说明账号用途，并通过关键词布局、信任证明和持续内容获取精准流量。账号交易应遵守LINE平台规则及当地法律，避免购买盗用、批量注册或来源不明的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号求购SEO优化运营步骤
 

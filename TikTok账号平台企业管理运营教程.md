@@ -2,9 +2,9 @@
 
 想系统管理TikTok企业账号，关键是统一权限、内容流程与数据复盘。TikTok账号平台企业管理运营教程可帮助团队从账号搭建、发布审核到广告转化建立标准化流程，降低多人操作带来的安全和沟通成本。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号平台企业管理运营教程
 

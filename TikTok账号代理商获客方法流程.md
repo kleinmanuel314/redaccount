@@ -2,9 +2,9 @@
 
 TikTok账号代理商获客方法流程的核心，是先明确目标客户，再用内容、广告与销售跟进形成闭环。代理商可优先服务跨境电商、品牌出海、MCN及本地商家，通过案例展示、免费诊断和定向触达获取线索，并用CRM记录客户来源、需求和成交阶段。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号代理商获客方法流程
 

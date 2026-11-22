@@ -2,9 +2,9 @@
 
 Telegram账号批发品牌推广实战常见问题：Telegram账号批发品牌推广并不是简单购买大量账号群发广告。更稳妥的做法是使用官方广告、公开频道合作和用户授权社群，建立可追踪、可退出的推广流程；低价账号批量注册、改名或集中发送私信，容易触发限制，也可能损害品牌信誉。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号批发品牌推广
 

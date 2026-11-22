@@ -2,9 +2,9 @@
 
 LINE账号店铺官方认证教程方法：LINE账号店铺官方认证，通常是指为企业或门店申请LINE官方账号认证标识。操作前应准备营业执照、店铺名称、官网或社交主页等资料，并通过LINE Official Account Manager提交审核。不同国家和地区的认证条件可能不同，最终以后台页面显示为准。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号店铺官方认证
 

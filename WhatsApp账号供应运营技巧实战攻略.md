@@ -2,9 +2,9 @@
 
 WhatsApp账号供应运营技巧实战攻略：WhatsApp账号供应运营技巧的重点，不是批量购买或规避封禁，而是建立合规、可追溯的业务账号体系。企业应使用官方WhatsApp Business或WhatsApp Business Platform，通过实名资料、客户授权和稳定设备提升触达率，同时控制发送频率，降低投诉与封号风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号供应运营技巧
 

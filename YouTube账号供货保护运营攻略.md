@@ -2,9 +2,9 @@
 
 YouTube账号供货保护运营攻略：YouTube账号供货保护运营的重点，不是批量提供账号，而是建立合规的账号交接、安全管理与持续运营流程。选择来源清晰、权限可控的账号，并配合二次验证、版权检查和异常监测，才能降低封禁与资产损失风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是YouTube账号供货保护运营
 

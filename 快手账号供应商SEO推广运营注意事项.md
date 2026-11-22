@@ -2,9 +2,9 @@
 
 快手账号供应商SEO推广运营注意事项的核心，是在合规前提下做好账号真实性、内容质量、关键词布局和数据复盘。供应商不应只追求账号数量，还要说明粉丝来源、活跃程度、历史违规记录及交付规则，避免买到刷量或高风险账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是快手账号供应商SEO推广运营注意事项
 

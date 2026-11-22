@@ -2,9 +2,9 @@
 
 WhatsApp账号服务商运营技巧实战入门：WhatsApp账号服务商运营技巧的重点，不是大量注册或群发消息，而是建立合规的账号管理、客户服务和风险控制流程。服务商应先明确客户行业，再通过官方渠道、授权工具和真实用户同意提升账号稳定性。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号服务商运营技巧
 

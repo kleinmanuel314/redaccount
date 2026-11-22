@@ -2,9 +2,9 @@
 
 Telegram账号代理防封实战攻略：Telegram账号代理防封的关键，不是频繁更换IP，而是让登录环境、账号行为与平台规则保持一致。建议优先使用稳定、信誉良好的网络线路，开启两步验证，避免群发广告、批量加群和异常登录。代理只能降低环境风险，不能替代合规运营。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号代理防封
 

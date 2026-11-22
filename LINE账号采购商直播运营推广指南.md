@@ -2,9 +2,9 @@
 
 LINE账号采购商直播运营推广指南：LINE账号采购商做直播推广，重点不是大量购买账号，而是建立合规、稳定、可追踪的运营体系。建议优先选择经过实名授权的企业账号或官方渠道，再通过直播内容、社群承接和数据复盘提升转化，避免因批量注册、租售账号或骚扰营销导致封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号采购商
 

@@ -2,9 +2,9 @@
 
 LINE账号库存客户运营操作运营指南：LINE账号库存客户运营的核心，不是单纯囤积账号，而是对账号来源、客户标签、沟通节奏和风险状态进行统一管理。实际操作中，应先确认账号来源合法、客户已同意接收信息，再通过分组运营提升转化，避免群发骚扰、账号封禁和客户流失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号库存客户运营
 

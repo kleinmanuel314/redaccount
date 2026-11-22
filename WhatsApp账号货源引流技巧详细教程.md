@@ -2,9 +2,9 @@
 
 WhatsApp账号货源引流技巧详细教程：想做好WhatsApp账号货源引流，关键不是大量添加陌生人，而是找到真实买家、提供匹配货源，并通过合规沟通完成转化。建议使用企业账号，先明确目标市场，再用内容、社群和老客推荐获取经过同意的精准联系人，避免群发骚扰导致封号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号货源引流技巧
 

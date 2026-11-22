@@ -2,9 +2,9 @@
 
 Telegram账号批量供应企业营销实战操作指南：企业做Telegram营销，不应依赖来路不明的Telegram账号批量供应。批量购买账号容易触发风控、封禁和客户投诉，合规做法是使用官方频道、群组、机器人及经用户同意的订阅名单，建立可追踪、可退出的营销流程。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号批量供应
 

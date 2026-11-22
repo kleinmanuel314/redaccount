@@ -2,9 +2,9 @@
 
 TikTok账号账号采购私域运营操作指南：TikTok账号采购私域运营的核心，不是大量买号，而是通过合规渠道获得可运营账号，完成内容测试、用户沉淀与长期转化。采购前应核实账号来源、权限、历史违规记录和平台规则，避免使用盗用、冒用身份或无法完成验证的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购私域运营
 

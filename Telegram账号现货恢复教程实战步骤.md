@@ -2,9 +2,9 @@
 
 Telegram账号现货恢复教程实战步骤：Telegram账号现货恢复教程主要适用于本人已注册、但无法登录或更换设备后失去访问权限的情况。先说明一点：所谓“现货账号恢复”不能绕过验证码、二次验证或设备安全校验，也不建议购买他人账号。最稳妥的方法是通过原手机号、已登录设备和官方支持渠道找回。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号现货恢复
 

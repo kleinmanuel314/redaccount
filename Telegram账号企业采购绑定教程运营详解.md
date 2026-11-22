@@ -2,9 +2,9 @@
 
 Telegram账号企业采购绑定教程运营详解的核心，是通过正规渠道购买或注册账号，再完成企业邮箱、管理员权限和安全策略绑定。建议先确认团队人数、使用地区及合规要求，避免购买来源不明的账号。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号企业采购绑定教程
 

@@ -2,9 +2,9 @@
 
 LINE账号批量采购流量运营操作优化指南：LINE账号批量采购流量运营应优先选择官方LINE Official Account，而不是购买来源不明的个人账号。通过授权、分层、内容测试和数据复盘，可以降低封禁风险，并持续获得真实用户流量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批量采购流量运营
 

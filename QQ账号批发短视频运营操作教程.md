@@ -2,9 +2,9 @@
 
 QQ账号批发短视频运营操作教程：“QQ账号批发短视频运营”看似能快速扩大账号矩阵，实际存在封号、诈骗、隐私泄露和资金损失风险。更稳妥的做法是使用企业实名账号或平台允许的团队账号，建立合规的短视频运营流程，通过内容质量而不是账号数量获取流量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批发短视频运营
 

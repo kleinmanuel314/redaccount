@@ -2,9 +2,9 @@
 
 TikTok账号批量交易社区运营操作操作指南：TikTok账号批量交易社区运营的核心，不是单纯撮合买卖，而是建立合规、透明、可追溯的账号与创作者资源服务平台。运营前应核查平台规则，禁止盗号、虚假粉丝、冒用身份及绕过风控的账号交易，优先发展授权代运营、账号资产评估和内容合作。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号批量交易社区运营
 

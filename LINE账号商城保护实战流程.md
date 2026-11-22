@@ -2,9 +2,9 @@
 
 LINE账号商城保护实战流程的重点，是先确认账号归属，再分层设置登录、支付与人员权限。建议管理员在上线前完成手机号和邮箱验证，启用双重验证，并保存恢复码；发生异常登录时，立即冻结高风险操作、退出陌生设备，避免客户资料、订单和余额受到影响。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号商城保护
 

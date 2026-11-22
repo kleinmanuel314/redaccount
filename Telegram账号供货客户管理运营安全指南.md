@@ -2,9 +2,9 @@
 
 Telegram账号供货客户管理运营安全指南：Telegram账号供货客户管理运营安全的核心，是只使用合法来源账号，建立客户实名授权、分级权限、登录监控和售后记录，避免批量群发、账号倒卖及隐私泄露。运营前应明确用途与服务边界，并遵守Telegram规则及当地法律。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号供货客户管理运营安全
 

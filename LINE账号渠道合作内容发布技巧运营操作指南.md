@@ -2,9 +2,9 @@
 
 LINE账号渠道合作内容发布技巧运营操作指南：做好LINE账号渠道合作，关键是先明确目标用户与内容主题，再筛选匹配的社群、媒体或KOL，制定统一发布规范，并持续追踪点击、加好友和转化数据。相比单纯投放，精细化运营更能降低无效曝光与违规风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号渠道合作
 

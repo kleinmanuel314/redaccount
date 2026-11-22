@@ -2,9 +2,9 @@
 
 QQ账号供应合作私域运营运营教程：“QQ账号供应合作私域运营教程”真正关注的不是批量购买账号，而是如何在合规前提下搭建稳定的QQ私域体系。账号应通过企业认证、员工实名及官方渠道创建，禁止买卖、租借或使用来源不明的账号，避免封禁、诈骗和用户隐私泄露。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号供应合作私域运营教程
 

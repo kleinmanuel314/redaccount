@@ -2,9 +2,9 @@
 
 TikTok账号账号交易营销运营操作安全指南：进行TikTok账号交易、营销与运营时，安全重点不是单纯“买到账号”，而是确认来源、控制权限并遵守平台规则。建议优先选择有运营记录、无违规处罚、数据真实的账号，通过书面协议和分阶段付款降低被找回、封禁及资金损失风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号交易安全
 

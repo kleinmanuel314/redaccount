@@ -2,9 +2,9 @@
 
 TikTok账号账号采购社媒营销实战教程：TikTok账号采购社媒营销的关键，不是单纯购买粉丝多的账号，而是选择来源清晰、受众匹配且符合平台规则的账号，再通过内容、广告和数据分析持续运营。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购社媒营销
 

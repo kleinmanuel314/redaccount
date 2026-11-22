@@ -2,9 +2,9 @@
 
 探探账号代理SEO排名优化运营实战：探探账号代理SEO排名优化运营的核心，不是批量注册或制造虚假互动，而是以真实、合规的账号服务为基础，优化公开介绍页、品牌内容与用户体验。想提升Google自然曝光，应先明确目标人群，再统一资料信息、发布有价值内容，并持续分析点击、咨询和转化数据。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是探探账号代理
 

@@ -2,9 +2,9 @@
 
 TikTok账号采购企业号运营操作教程的重点，不是单纯买号，而是确认账号来源、完成合规交接，再通过内容和数据建立稳定获客渠道。建议优先选择可验证主体、历史记录清晰的账号，避免使用盗号、批量注册或无法提供授权证明的资源。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号采购企业号运营操作教程
 

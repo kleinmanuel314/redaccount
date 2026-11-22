@@ -2,9 +2,9 @@
 
 Telegram账号经销商图文营销操作常见问题：Telegram账号经销商图文营销的关键，不是大量发布广告，而是用清晰图片、真实说明和合规渠道建立信任。经销商应先确认账号来源、登录安全及售后规则，再针对目标用户制作内容，避免因夸大宣传、群发骚扰或隐瞒风险导致投诉和封禁。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号经销商图文营销
 

@@ -2,9 +2,9 @@
 
 WhatsApp账号批发企业管理运营操作指南：WhatsApp账号批发企业管理运营的重点，不是单纯增加账号数量，而是通过官方渠道、实名资料、权限分级和客户同意机制，建立可追踪、可合规的沟通体系。企业应优先使用WhatsApp Business或官方API，避免购买来源不明的账号，降低封号、隐私泄露和客户投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号批发企业管理运营
 

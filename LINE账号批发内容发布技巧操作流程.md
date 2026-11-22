@@ -2,9 +2,9 @@
 
 LINE账号批发内容发布技巧操作流程的关键，不是单纯追求账号数量，而是先确认账号来源合规、受众匹配，再通过分组、排期和数据复盘提高触达效果。建议使用官方LINE OA或获授权的企业账号，避免批量骚扰、虚假宣传及违规登录。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号批发内容发布技巧操作流程
 

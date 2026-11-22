@@ -2,9 +2,9 @@
 
 QQ账号转让运营方法的核心，不是单纯寻找买家，而是确认账号权属、评估账号价值、完成安全交接并降低纠纷风险。实际操作前，应先阅读腾讯相关服务协议，确认账号是否允许转让；涉及实名信息、支付功能或企业业务时，更要优先选择合规方案，避免因违规交易导致账号冻结或资金损失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号转让运营方法
 

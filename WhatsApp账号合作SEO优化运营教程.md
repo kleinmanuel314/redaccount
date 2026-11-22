@@ -2,9 +2,9 @@
 
 WhatsApp账号合作SEO优化运营教程：WhatsApp账号合作SEO优化运营的重点，是通过合规账号管理、内容优化和持续数据分析，提升品牌咨询量与有效转化，而不是单纯增加群发数量。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号合作SEO优化运营
 

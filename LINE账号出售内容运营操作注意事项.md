@@ -2,9 +2,9 @@
 
 LINE账号出售内容运营操作注意事项，核心在于合法授权、资料安全与交接可追溯。无论是企业营销号、客服号还是社群运营账号，都不应购买来源不明、盗用他人身份或绕过平台验证的账号。交易前应先确认账号归属、用途、历史记录及LINE服务条款，避免后续被封禁或引发隐私纠纷。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号出售
 

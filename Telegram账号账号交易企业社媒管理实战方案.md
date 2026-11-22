@@ -2,9 +2,9 @@
 
 Telegram账号账号交易企业社媒管理实战方案：企业开展Telegram社媒运营，重点不是盲目购买账号，而是通过合规的账号资产交接、权限管理和内容运营，降低封禁风险并保持品牌连续性。Telegram账号交易前，应核验归属、登录安全及历史行为。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是Telegram账号交易
 

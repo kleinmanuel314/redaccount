@@ -2,9 +2,9 @@
 
 TikTok账号招商流量增长运营注意事项的核心，是先明确目标市场和账号定位，再用稳定内容、合规投放与数据复盘获取精准流量。招商账号不能只追求播放量，还要关注主页访问、私信咨询、表单提交及最终转化。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号招商流量增长运营注意事项
 

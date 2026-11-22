@@ -2,9 +2,9 @@
 
 WhatsApp账号商城品牌推广实战营销指南：WhatsApp账号商城品牌推广的核心，不是群发广告，而是用合规的WhatsApp Business账号连接内容、咨询与下单。品牌应先明确目标客户，再通过产品目录、自动回复和一对一服务承接流量，逐步提升转化与复购。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号商城品牌推广
 

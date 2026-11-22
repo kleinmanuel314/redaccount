@@ -2,9 +2,9 @@
 
 QQ账号批发企业号运营运营指南：企业想扩大QQ客服、社群或营销规模，不建议通过非正规渠道购买账号。所谓QQ账号批发往往伴随实名不一致、批量封禁和隐私泄露风险。更稳妥的做法是使用企业认证主体，按岗位申请并管理授权账号，再配合客户分层、内容规范和数据复盘开展运营。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是QQ账号批发企业号运营
 

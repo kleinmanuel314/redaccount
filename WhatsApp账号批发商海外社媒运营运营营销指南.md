@@ -2,9 +2,9 @@
 
 WhatsApp账号批发商海外社媒运营运营营销指南：寻找WhatsApp账号批发商时，重点不是账号数量，而是账号来源、授权合规与运营稳定性。企业应优先使用WhatsApp Business官方账号，通过实名资料、客户同意和分层营销降低封号及投诉风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是WhatsApp账号批发商
 

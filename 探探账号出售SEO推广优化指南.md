@@ -2,9 +2,9 @@
 
 探探账号出售SEO推广优化指南：探探账号出售涉及个人信息、实名认证和平台规则，不能把交易安全寄托在搜索排名上。做SEO推广时，应明确说明平台是否允许转让、禁止代实名和虚假资料，并引导用户通过官方渠道核验，避免因账号冻结、诈骗或隐私泄露造成损失。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是探探账号出售
 

@@ -2,9 +2,9 @@
 
 LINE账号账号采购品牌推广实战运营指南：LINE账号采购并不是品牌推广的捷径。企业若直接购买他人注册的LINE账号，可能面临身份验证失败、账号被回收、隐私泄露及群发营销受限等问题。更稳妥的做法，是通过官方LINE Official Account建立品牌阵地，再结合内容运营、客服自动化与广告投放，获得持续、可追踪的用户增长。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是LINE账号采购
 

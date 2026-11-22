@@ -2,9 +2,9 @@
 
 办理TikTok账号供货注册操作流程时，建议优先选择官方注册、授权服务商或企业代理渠道，不要购买来源不明的成品账号。标准做法是确认用途与地区，准备企业资料，完成邮箱或手机验证，再进行安全设置和交付验收，从源头降低封禁、找回及资金损失风险。
 
-➡️ 账号服务自助购买平台
+[➡️ 账号服务自助购买平台](https://9527shop.com)
 
-![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)
+[![➡️ 账号服务自助购买平台](https://raw.githubusercontent.com/kleinmanuel314/redaccount/main/images/xhs.png)](https://9527shop.com)
 
 什么是TikTok账号供货注册操作流程
 
